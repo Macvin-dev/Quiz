@@ -1,10 +1,4 @@
-//
-//  SceneDelegate.swift
-//  Quiz
-//
-//  Created by HJLee on 2020/08/30.
-//  Copyright © 2020 Macvin. All rights reserved.
-//
+
 
 import UIKit
 
